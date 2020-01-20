@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#f4d63a</color>
+    <color name="colorYellow">#f4d63a</color>
+
+    <color name="colorAccent">#D81B60</color>
+    <color name="redColorPressed">#ff5a2a</color>
+    <color name="tabTextColor">#3a415b</color>
+    <color name="tabWhiteColor">#f7f7f8</color>
+    <color name="grayColor">#babcc4</color>
+    <color name="lightGrayColor">#fafafa</color>
+</resources>

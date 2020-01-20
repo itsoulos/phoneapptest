@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+    <item
+        android:id="@+id/tabtables"
+        android:enabled="true"
+        android:icon="@drawable/icontable"
+        android:title="@string/dineInText"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/tabtakeout"
+        android:enabled="true"
+        android:icon="@drawable/takeout"
+        android:title="@string/takeOutText"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/tabinventory"
+        android:enabled="true"
+        android:icon="@drawable/iconbox1"
+        android:title="Inventory"
+        app:showAsAction="ifRoom" />
+
+
+
+
+</menu>
